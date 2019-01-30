@@ -1,5 +1,5 @@
 var chocolateBars = [ "snickers", "hundred", "grand", "kitkat", "skittles"]
 
-function (arr add){
-  return[add, ...arr]
+function (array element){
+  return[element ...array]
 }
